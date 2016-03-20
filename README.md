@@ -26,7 +26,7 @@ Files
 - find_bluetoothaddr.sh - simple script to l2-ping up one MAC address and down one MAC address from the wifi interface, which will find most bluetooth addresses hosted on same SoC as wifi interface.
 - ssid_to_address.sh - attempt to check the local DB for the SSID mentioned and map the lat/lon to a street address (GOOGLEMAPS version).
 - ssid_to_name.sh - slightly modified "ssid to address", tries to reference local Florida voters DB.  Easily modifiable to other data sources, here as an example (GOOGLEMAPS version).
-- latlon_to_address.sh - simlpe version of "ssid to address" to just take lat/lon found in other ways, show street address (GOOGLEMAPS API version). 
+- latlon_to_address.sh - simlpe version of "ssid to address" to just take lat/lon found in other ways, show street address (GOOGLEMAPS version). 
 - breadcrumbs.conf - Config file showing exempt strings, targets and alert-users (currently pushover only).
 
 TODO:
